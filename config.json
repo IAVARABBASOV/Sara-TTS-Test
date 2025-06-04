@@ -1,0 +1,23 @@
+[
+    {
+        "text": "Salam, necəsən? Bu mənim test mətnimdir.",
+        "length_scale": 1,
+        "pitch_shift": -2.0,
+        "use_pipeline": false,
+        "output_suffix": "_my_custom_1"
+    },
+    {
+        "text": "Salam, necəsən? Bu mənim test mətnimdir.",
+        "length_scale": 1.2,
+        "pitch_shift": 0,
+        "use_pipeline": false,
+        "output_suffix": "_my_custom_2"
+    },
+    {
+        "text": "Salam, necəsən? Bu mənim test mətnimdir.",
+        "length_scale": 1,
+        "pitch_shift": 0,
+        "use_pipeline": false,
+        "output_suffix": "_my_custom_3"
+    }
+]
