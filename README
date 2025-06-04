@@ -1,4 +1,4 @@
-# SARA TTS - Azerbaijani Text-to-Speech with Speed & Pitch Control
+SARA TTS - Azerbaijani Text-to-Speech with Speed & Pitch Control
 
 A Python implementation for converting Azerbaijani text to speech using the BHOSAI/SARA_TTS model with advanced audio manipulation capabilities.
 
